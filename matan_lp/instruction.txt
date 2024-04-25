@@ -1,0 +1,4 @@
+set xzeroaxis #ось х
+set yzeroaxis #ось у
+set size ratio -1 #масштаб по осям 1:1
+plot "data.txt" with lines title "function" #график синус х по точкам из файла дата

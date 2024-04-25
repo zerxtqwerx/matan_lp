@@ -1,0 +1,1 @@
+start "MyGnuPlot" "D:/downloads/gnuplot/bin/gnuplot.exe" -p -e "load \"instruction.txt\"
